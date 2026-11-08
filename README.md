@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Hebah&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Business%20Intelligence%20%C2%B7%20Machine%20Learning&descSize=17&descAlignY=60" alt="Hebah" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Hebah&fontColor=ffffff&fontSize=62&fontAlignY=38&desc=Data%20Scientist%20%C2%B7%20Machine%20Learning%20%C2%B7%20Analytics&descSize=17&descAlignY=60" alt="Hebah" width="100%"/>
 
-**I turn raw, messy data into dashboards, models and decisions that people can act on.**
+**Data Scientist who turns raw, messy data into models, dashboards and decisions that people can act on.**
 
 Calicut, Kerala, India &nbsp;|&nbsp; Open to roles in India and abroad
 
@@ -16,11 +16,11 @@ Calicut, Kerala, India &nbsp;|&nbsp; Open to roles in India and abroad
 
 ## About
 
-I am a 2025 BCA graduate and the first person in my family to work in tech. My work sits across three areas: **analytics** (SQL, Python, Power BI, Tableau), **machine learning** (classification, model evaluation, explainability) and **data products** (dashboards and small apps that make results usable).
+I am a 2025 BCA graduate and the first person in my family to work in tech. I am a **data scientist** and my work sits across three areas: **machine learning** (classification, model evaluation, explainability), **analytics** (SQL, Python, Power BI, Tableau) and **data products** (dashboards and small apps that make results usable).
 
 What I care about most is the link between an analysis and a decision. A model is only useful if its cost, its errors and its reasoning can be explained to the person who has to rely on it.
 
-I am looking for Data Analyst, BI Analyst, Machine Learning and Data Engineering roles.
+I am looking for Data Scientist, Machine Learning, Data Analyst and Data Engineering roles.
 
 ---
 
