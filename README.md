@@ -107,6 +107,15 @@ I am looking for Data Scientist, Machine Learning, Data Analyst and Data Enginee
 
 ## Experience
 
+**Data Analytics Intern** &nbsp;|&nbsp; KultureHire (Remote) &nbsp;|&nbsp; Sep 2026
+Analysed a Gen Z career aspirations survey from raw data to final presentation.
+- Cleaned and standardised the raw survey data in Excel: renamed headers, handled nulls, fixed data types and split multi value answers into rows
+- Ran exploratory analysis with pivot tables and answered the business questions with SQL queries in MySQL
+- Built an Excel KPI dashboard and two Power BI dashboards (manager aspirations and mission aspirations) for HR and recruitment stakeholders
+- Presented the findings in a final stakeholder presentation
+
+<br>
+
 **Data Science Intern** &nbsp;|&nbsp; Techolas Technologies, Calicut &nbsp;|&nbsp; Oct 2025 to Jul 2026
 Hands on work across data preparation, modelling and evaluation.
 
@@ -118,6 +127,7 @@ Hands on work across data preparation, modelling and evaluation.
 - Google AI Agents Intensive
 - AI Bootcamp: Predictive Modeling with Python
 - NIELIT (Microsoft / DSCI)
+- KultureHire certificates: Problem Solving with AI, Data Storytelling for Data Professionals, SQL Bootcamp (MySQL), Microsoft Excel Beginner to Advanced
 
 ---
 
